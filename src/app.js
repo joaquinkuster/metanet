@@ -18,4 +18,4 @@ app.use(cookieParser())
 app.use('/api', authRoutes)
 app.use('/api', taskRoutes)
 
-export default app
+export default app 
